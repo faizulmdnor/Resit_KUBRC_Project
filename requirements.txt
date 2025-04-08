@@ -1,0 +1,4 @@
+pandas>=1.0
+gdown>=4.0
+pymongo>=4.0
+fpdf>=1.7.2
